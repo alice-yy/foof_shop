@@ -18,7 +18,7 @@
     "mime": "^2.3.1",
     "mint-ui": "^2.2.13",
     "mockjs": "^1.0.1-beta3",
-    "moment": "^2.22.1",
+    "moment": "^2.29.4",
     "swiper": "^4.2.6",
     "vue": "^2.5.2",
     "vue-lazyload": "^1.2.3",
